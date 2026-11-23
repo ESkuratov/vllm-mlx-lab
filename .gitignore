@@ -8,3 +8,7 @@ dsh-plugins/
 
 # Сгенерированный индекс OpenWiki: обновляется workflow, руками не правится
 openwiki/
+
+# Личные конфиги агента/вики: не в репозитории
+AGENTS.md
+.openwikiignore
